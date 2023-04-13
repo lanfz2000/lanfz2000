@@ -1,7 +1,9 @@
 ## CV of Lanfeng Zhong 👋
 
 ### Education Experience
-- bachelor 2018.09-2022.07
+- master 2022.09-now **UESTC (University of Electronic Science and Technology of China)** Mechanical and electrical engineering
+- bachelor 2018.09-2022.07 **UESTC (University of Electronic Science and Technology of China)** Electronic engineering
+
 
 
 <!--
