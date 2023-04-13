@@ -15,8 +15,8 @@
 
 **Note**: * means co-first auther.
 ### Awards
-- First-class scholarship, 2022
-- First-class scholarship, 2020
+- First-class scholarship, graduate student, 2022
+- First-class scholarship, undergraduate, 2020
 
 <!--
 **lanfz2000/lanfz2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
