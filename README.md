@@ -1,6 +1,7 @@
 ## CV of Lanfeng Zhong 👋
 
 ### Education Experience
+- bachelor 2018.09-2022.07
 
 
 <!--
