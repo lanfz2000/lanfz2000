@@ -10,8 +10,8 @@
 - annotation efficient learning
 
 ### Publications
-- Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation, Q Zhao*, L Zhong*, TMI 2023.
-- A Novel Unsupervised Autoencoder-Based HFOs Detector in Intracranial EEG Signals, W Li*, L Zhong*, W Xiang, ICASSP 2022.
+- Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation, Q Zhao*, L Zhong*, **TMI** 2023.
+- A Novel Unsupervised Autoencoder-Based HFOs Detector in Intracranial EEG Signals, W Li*, L Zhong*, W Xiang, **ICASSP** 2022.
 
 **Note**: * means co-first auther.
 ### Awards
