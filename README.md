@@ -10,10 +10,10 @@
 - annotation efficient learning
 
 ### Publications
-- HAMIL: High-resolution Activation Maps and Interleaved Learning for Weakly Supervised Segmentation of Histopathological Images, L Zhong, **TMI** 2023.
-- Semi-supervised Pathological Image Segmentation via Cross Distillation of Multiple Attentions, L Zhong, **MICCAI** 2023, provisional accept.
-- Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation, Q Zhao*, L Zhong*, **TMI** 2023.
-- A Novel Unsupervised Autoencoder-Based HFOs Detector in Intracranial EEG Signals, W Li*, L Zhong*, W Xiang, **ICASSP** 2022.
+- HAMIL: High-resolution Activation Maps and Interleaved Learning for Weakly Supervised Segmentation of Histopathological Images, **L Zhong**, **TMI** 2023.
+- Semi-supervised Pathological Image Segmentation via Cross Distillation of Multiple Attentions, **L Zhong**, **MICCAI** 2023, provisional accept.
+- Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation, Q Zhao*, **L Zhong***, **TMI** 2023.
+- A Novel Unsupervised Autoencoder-Based HFOs Detector in Intracranial EEG Signals, W Li*, **L Zhong***, W Xiang, **ICASSP** 2022.
 
 **Note**: * means co-first auther.
 ### Awards
