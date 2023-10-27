@@ -18,7 +18,7 @@
 **Note**: * means co-first auther.
 ### Awards
 - National scholarship, graduate student, 2023
-- First-class scholarship, graduate student, 2022
+- First-class scholarship, graduate student, 2023
 - First-class scholarship, graduate student, 2022
 - First-class scholarship, undergraduate, 2020
 
