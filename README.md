@@ -15,10 +15,11 @@
 - Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation, Q Zhao*, **L Zhong***, **TMI** 2023.
 - A Novel Unsupervised Autoencoder-Based HFOs Detector in Intracranial EEG Signals, W Li*, **L Zhong***, W Xiang, **ICASSP** 2022.
 
+**Note**: * means co-first auther.
+
 ### Intern Experience
 - 2023.09-now, **Shanghai AI lab**.
 
-**Note**: * means co-first auther.
 ### Awards
 - National scholarship, graduate student, 2023
 - First-class scholarship, graduate student, 2023
