@@ -10,6 +10,7 @@
 - annotation efficient learning
 
 ### Publications
+- Semi-ConTrans: Semi-Supervised Medical Image Segmentation via Multi-scale Feature Fusion and Cross Teaching of CNN and Transformer, W Zhao*, **L Zhong***, **ISBI** 2024.
 - HAMIL: High-resolution Activation Maps and Interleaved Learning for Weakly Supervised Segmentation of Histopathological Images, **L Zhong**, **TMI** 2023.
 - Semi-supervised Pathological Image Segmentation via Cross Distillation of Multiple Attentions, **L Zhong**, **MICCAI** 2023, early accept (14%).
 - Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation, Q Zhao*, **L Zhong***, **TMI** 2023.
