@@ -27,7 +27,7 @@
 - First-class scholarship, graduate student, 2022
 - First-class scholarship, undergraduate, 2020
 - Second-class scholarship, undergraduate, 2019
-- 
+
 <!--
 **lanfz2000/lanfz2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
