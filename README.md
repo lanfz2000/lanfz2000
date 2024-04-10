@@ -10,6 +10,7 @@
 - annotation efficient learning
 
 ### Publications
+- Semi-supervised Pathological Image Segmentation via Cross Distillation of Multiple Attentions and Seg-CAM Consistency, **L Zhong**, **Pattern Recognition** 2024.
 - Semi-ConTrans: Semi-Supervised Medical Image Segmentation via Multi-scale Feature Fusion and Cross Teaching of CNN and Transformer, W Zhao*, **L Zhong***, **ISBI** 2024.
 - HAMIL: High-resolution Activation Maps and Interleaved Learning for Weakly Supervised Segmentation of Histopathological Images, **L Zhong**, **TMI** 2023.
 - Semi-supervised Pathological Image Segmentation via Cross Distillation of Multiple Attentions, **L Zhong**, **MICCAI** 2023, early accept (14%).
