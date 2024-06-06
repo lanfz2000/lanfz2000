@@ -20,7 +20,7 @@
 **Note**: * means co-first author.
 
 ### Intern Experience
-- 2023.09-now, foundation model for pathology images. **Shanghai AI lab**.
+- 2023.09-now, **Shanghai AI lab**. foundation model for pathology images in downstream tasks.
 
 ### Awards
 - National scholarship, graduate student, 2023
